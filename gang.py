@@ -1,0 +1,1 @@
+my_list.append(int(input()))
